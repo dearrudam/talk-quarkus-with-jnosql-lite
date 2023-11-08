@@ -1,6 +1,6 @@
 # talk-quarkus-with-jnosql-lite
 
-Project created during the presentation: [Esquenta TDC Future SouJava + Quarkus Club: Simplifying NoSQL Integration with Quarkus and JNoSQL](https://www.youtube.com/watch?v=PUm5zdrEkoo)
+Project created during the presentation: [Esquenta TDC Future SouJava + Quarkus Club: Simplifying NoSQL Integration with Quarkus and JNoSQL](https://www.youtube.com/watch?v=PUm5zdrEkoo). Get the slides [here](https://docs.google.com/presentation/d/1wPn4R9dUvCKXuzhN23NNtcUJNMe0URdVQmP6BDmjI3Y/edit?usp=sharing): 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework, and [Eclise JNoSQL Lite](https://github.com/eclipse/jnosql-extensions#jnosql-lite), persisting at [MongoDB database](https://www.mongodb.com).
 
